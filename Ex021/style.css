@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100; 1.200;1.300;1.400;1.500;1.600;1.700;1.800;1.900&display=swap');
+
+body{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 100; 
+    font-style: normal;
+    background-color: #222222;
+    color: white;
+    font-size: 26px;
+
+}
+header{
+text-align: center;
+padding: 10px 20px;
+background-color: #222222;
+color: white;
+}
+main
+{
+    background-color: #222222;
+}
+a{
+    border-radius: 20px;
+    margin: 7px;
+    padding: 5px 15px;
+    color: white;
+    text-decoration: none;
+    background-color: #333333;
+}
+nav > a{
+    border-radius: 20px;
+    margin: 7px;
+    padding: 5px 15px;
+    color: white;
+    text-decoration: none;
+    background-color: #333333;
+}
+#capitulos{
+    background-color: #8224E3;
+}
+
+#esquerda:hover{
+    color: #8224E3;
+    
+}
+.left a:hover{
+    display: block;
+    color: #8224E3;
+    text-align: left;
+ 
+}
+
